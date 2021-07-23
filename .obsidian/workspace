@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "5e75b20c055f7491",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca57490f7d07f93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "What Is Love First.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "898f9591bc8b7ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "310ea7cb9cf5741a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8f11152b5ca1935",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "de1da8308aaf6076",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d571a0479fa50903",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6efeea1af27f264",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49988d4245dcf14b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What Is Love First.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b08e2d747f6bdf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "What Is Love First.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eca57490f7d07f93",
+  "lastOpenFiles": [
+    "What Is Love First.md",
+    "Untitled.md",
+    "this-is/Going Love First.md",
+    "README.md"
+  ]
+}
