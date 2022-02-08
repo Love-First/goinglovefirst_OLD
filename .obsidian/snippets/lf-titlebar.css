@@ -1,0 +1,26 @@
+/* Title Bar without text, custom colour */
+body:not(.is-mobile) .titlebar {
+  background: none;
+  background: linear-gradient(90deg, rgba(2,0,36, .21) 0%, rgba(250,25,130, .55) 100%);
+}
+
+body:not(.is-mobile) .titlebar-text,
+body:not(.is-mobile) .titlebar-button {
+  display: block;
+}
+
+/* Frameless = no titlebar */
+body:not(.is-mobile) .is-frameless {
+  padding-top: 0px !important;
+}
+
+/* hide title bar text */
+body:not(.is-mobile) .titlebar-text {
+  color: #fff;
+  line-height: 28px;
+  font-weight: 600;
+}
+body:not(.is-mobile) .titlebar-text::before {
+  content: '💖';
+  margin-right: 8px;
+}

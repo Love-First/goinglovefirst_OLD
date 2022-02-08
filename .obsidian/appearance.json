@@ -1,6 +1,12 @@
 {
   "baseFontSize": 16,
   "theme": "moonstone",
+  "translucency": true,
   "cssTheme": "California Coast",
-  "translucency": true
+  "enabledCssSnippets": [
+    "lf-clean-embeds",
+    "lf-titlebar",
+    "lf-translucency",
+    "lovefirst"
+  ]
 }

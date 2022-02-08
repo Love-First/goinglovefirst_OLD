@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "eca57490f7d07f93",
+        "id": "38b143026badf0ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What Is Love First.md",
-            "mode": "source"
+            "file": "This Is A Story About Love.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "optimism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,12 +53,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325
   },
   "right": {
     "id": "d571a0479fa50903",
     "type": "split",
     "children": [
+      {
+        "id": "f1f475d4fa980484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b08e2d747f6bdf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "This Is A Story About Love.md"
+              }
+            }
+          }
+        ]
+      },
       {
         "id": "f6efeea1af27f264",
         "type": "tabs",
@@ -68,39 +85,62 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What Is Love First.md",
+                "file": "This Is A Story About Love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2d942ff28a08d3fe",
+        "type": "tabs",
+        "children": [
           {
-            "id": "3b08e2d747f6bdf7",
+            "id": "3b185984e9ba5533",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "What Is Love First.md"
-              }
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b69f999eb7933591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51fd033dbd246cac",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 367
   },
-  "active": "eca57490f7d07f93",
+  "active": "38b143026badf0ce",
   "lastOpenFiles": [
-    "What Is Love First.md",
-    "Untitled.md",
-    "this-is/Going Love First.md",
-    "README.md"
+    "This Is A Story About Love.md",
+    "_templates/header_yaml.md",
+    "the-story-so-far/The Problems That Love First Is Trying To Solve (And How).md",
+    "I Am A Racist Being, Being Anti-Racist.md",
+    "_templates/header.md",
+    "person/faruk/lifestream/I'm Going Love First; Here's What That Means.md",
+    "person/faruk/I Am Faruk, A Love First Person.md",
+    "stances/Pro-Life Is Not An Identity.md",
+    "practices/Ask For What You Want And Need.md",
+    "202110121826 The First START HERE.md"
   ]
 }

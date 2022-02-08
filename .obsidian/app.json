@@ -1,4 +1,7 @@
 {
-  "attachmentFolderPath": "files",
-  "showLineNumber": true
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": false
 }

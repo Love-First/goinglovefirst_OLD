@@ -1,0 +1,45 @@
+.theme-light {
+  --background-translucent: rgba(245, 245, 245, 0.55);
+}
+
+.is-translucent .workspace {
+    background-color: transparent;
+}
+
+.is-translucent .workspace .mod-left-split {
+  background: linear-gradient(180deg, rgba(255,255,255, .55) 0%, rgba(255,255,255, .34) 100%);
+  border-left: 1px solid rgba(255,255,255, .13);
+}
+
+.is-translucent .workspace .mod-right-split {
+    background-color: transparent;
+}
+.is-translucent .workspace .mod-right-split .workspace-tabs {
+  background: linear-gradient(0deg, rgba(255,255,255, .89) 0%, rgba(255,255,255, .55) 100%);
+}
+
+.workspace-ribbon.mod-left {
+  background: linear-gradient(180deg, rgba(250,25,130, .55) 0%, rgba(2,0,36, .13) 50%, rgba(250,25,130, .55) 100%);
+}
+
+.is-translucent .workspace .side-dock-ribbon-action {
+  color: #000;
+  color: rgba(255,255,255, .55);
+}
+
+.is-translucent .workspace .side-dock-ribbon-action:hover {
+  color: #fff;
+}
+
+
+.side-dock-ribbon {
+  width: 42px;
+}
+
+.nav-action-button {
+  margin: 2px;
+  border-radius: 0;
+  background-color: rgba(255,255,255, .21);
+  box-shadow: none;
+  border: 0;
+}
